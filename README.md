@@ -3,6 +3,7 @@ collection of things i found from the internet that makes old apps work on iOS 8
 
 CREDITS:
 
-https://www.reddit.com/user/Ipad2stillrocking/
+https://www.reddit.com/user/Ipad2stillrocking/ for gmeil
+felix_thor from discord for zoomfix
 
 
